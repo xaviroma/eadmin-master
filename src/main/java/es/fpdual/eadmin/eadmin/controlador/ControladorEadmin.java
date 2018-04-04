@@ -46,7 +46,7 @@ public class ControladorEadmin {
 		
 	}
 	
-	@PostMapping(value="/eadmin/documentos/eliminar/{codigo}")
+	@GetMapping(value="/eadmin/documentos/eliminar/{codigo}")
 	public ResponseEntity<?> eliminarDocumento(@PathVariable("codigo") Integer codigo) {
 		
 		this.servicioDocumento.eliminarDocumento(codigo);

@@ -18,4 +18,14 @@ public class Documento extends AdministracionElectronicaBase {
 		return estado;
 	}
 
+
+	@Override
+	public String toString() {
+		return "[Codigo=" + getCodigo() + "]";
+	}
+
+
+	
+	
+
 }

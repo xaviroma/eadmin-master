@@ -10,14 +10,20 @@ import es.fpdual.eadmin.eadmin.modelo.builder.DocumentoBuilder;
 import es.fpdual.eadmin.eadmin.repositorio.RepositorioDocumento;
 import es.fpdual.eadmin.eadmin.servicio.ServicioDocumento;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 @Service
 public class ServicioDocumentoImpl implements ServicioDocumento {
 	
 	RepositorioDocumento repositorioDocumento;
 	
+	private static final Logger logger = LoggerFactory.getLogger(ServicioDocumentoImpl.class);
+	
 	@Autowired
 	public ServicioDocumentoImpl (RepositorioDocumento repositorioDocumento) {
 		this.repositorioDocumento = repositorioDocumento;
+
 	}
 
 	@Override
