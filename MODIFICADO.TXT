@@ -1,0 +1,64 @@
+Código: 2Nombre: documento2
+Fecha de creación: Thu Apr 05 14:11:20 CEST 2018
+Público: true
+Fecha última modificación: null
+Estado: APROBADO
+Código: 4Nombre: documeno3
+Fecha de creación: Thu Apr 05 14:11:20 CEST 2018
+Público: false
+Fecha última modificación: null
+Estado: ELIMINADO
+***********************
+Código: 2
+Nombre: documento2
+Fecha de creación: Thu Apr 05 14:12:37 CEST 2018
+Público: true
+Fecha última modificación: null
+Estado: APROBADO
+***********************
+ 
+***********************
+Código: 4
+Nombre: documeno3
+Fecha de creación: Thu Apr 05 14:12:37 CEST 2018
+Público: false
+Fecha última modificación: null
+Estado: ELIMINADO
+***********************
+ 
+***********************
+Código: 2
+Nombre: documento2modificado
+Fecha de creación: Thu Apr 05 14:13:28 CEST 2018
+Público: true
+Fecha última modificación: null
+Estado: APROBADO
+***********************
+ 
+***********************
+Código: 4
+Nombre: documeno3modificado
+Fecha de creación: Thu Apr 05 14:13:28 CEST 2018
+Público: false
+Fecha última modificación: null
+Estado: ELIMINADO
+***********************
+ 
+***********************
+Código: 2
+Nombre: documento2modificado
+Fecha de creación: Thu Apr 05 14:14:36 CEST 2018
+Público: true
+Fecha última modificación: null
+Estado: APROBADO
+***********************
+ 
+***********************
+Código: 4
+Nombre: documeno3modificado
+Fecha de creación: Thu Apr 05 14:14:36 CEST 2018
+Público: false
+Fecha última modificación: null
+Estado: ELIMINADO
+***********************
+ 

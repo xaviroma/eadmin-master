@@ -1,0 +1,123 @@
+**********************1documento1
+Thu Apr 05 12:56:15 CEST 2018truenullACTIVO*********************************************2documento2
+Thu Apr 05 12:56:15 CEST 2018falsenullAPROBADO*********************************************3documeno3
+Thu Apr 05 12:56:15 CEST 2018truenullELIMINADO*********************************************
+1 
+documento1 
+Thu Apr 05 13:07:37 CEST 2018 
+true 
+null 
+ACTIVO 
+***********************
+**********************
+2 
+documento2 
+Thu Apr 05 13:07:37 CEST 2018 
+false 
+null 
+APROBADO 
+***********************
+**********************
+3 
+documeno3 
+Thu Apr 05 13:07:37 CEST 2018 
+true 
+null 
+ELIMINADO 
+***********************
+**********************
+1 
+documento1 
+Thu Apr 05 13:11:47 CEST 2018 
+true 
+null 
+ACTIVO 
+***********************
+**********************
+2 
+documento2 
+Thu Apr 05 13:11:47 CEST 2018 
+false 
+null 
+APROBADO 
+***********************
+**********************
+3 
+documeno3 
+Thu Apr 05 13:11:47 CEST 2018 
+true 
+null 
+ELIMINADO 
+***********************
+***********************
+Codigo :1 
+Nombre documento1 
+Fecha de creación: Thu Apr 05 13:14:10 CEST 2018 
+Publico: true 
+Fecha de Ultima Modificación: null 
+Estado: ACTIVO 
+***********************
+ 
+***********************
+Codigo :2 
+Nombre documento2 
+Fecha de creación: Thu Apr 05 13:14:10 CEST 2018 
+Publico: false 
+Fecha de Ultima Modificación: null 
+Estado: APROBADO 
+***********************
+ 
+***********************
+Codigo :3 
+Nombre documeno3 
+Fecha de creación: Thu Apr 05 13:14:10 CEST 2018 
+Publico: true 
+Fecha de Ultima Modificación: null 
+Estado: ELIMINADO 
+***********************
+ 
+***********************
+Codigo :1 
+Nombre documento1 
+Fecha de creación: Thu Apr 05 13:18:50 CEST 2018 
+Publico: true 
+Fecha de Ultima Modificación: null 
+Estado: ACTIVO 
+***********************
+ 
+***********************
+Codigo :1 
+Nombre documento1 
+Fecha de creación: Thu Apr 05 13:19:36 CEST 2018 
+Publico: true 
+Fecha de Ultima Modificación: null 
+Estado: ACTIVO 
+***********************
+ 
+***********************
+Codigo :1 
+Nombre documento1 
+Fecha de creación: Thu Apr 05 13:21:21 CEST 2018 
+Publico: true 
+Fecha de Ultima Modificación: null 
+Estado: ACTIVO 
+***********************
+ 
+***********************
+Codigo :2 
+Nombre documento2 
+Fecha de creación: Thu Apr 05 13:21:21 CEST 2018 
+Publico: false 
+Fecha de Ultima Modificación: null 
+Estado: APROBADO 
+***********************
+ 
+***********************
+Codigo :3 
+Nombre documeno3 
+Fecha de creación: Thu Apr 05 13:21:21 CEST 2018 
+Publico: true 
+Fecha de Ultima Modificación: null 
+Estado: ELIMINADO 
+***********************
+ 

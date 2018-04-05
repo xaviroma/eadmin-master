@@ -15,5 +15,12 @@ public interface RepositorioDocumento {
 	public abstract Documento obtenerDocumentoPorCodigo(Integer codigo);
 	
 	public abstract List<Documento> obtenerTodosLosDocumentos();
+	
+	public abstract void cargarDocumentoEnArchivo();
+	
+	void listarEnAlta(Documento documento);
 
+	void listarModificados(Documento documento);
+	
+	void listarEliminados(Integer codigo);
 }
