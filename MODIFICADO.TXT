@@ -62,3 +62,75 @@ Fecha última modificación: null
 Estado: ELIMINADO
 ***********************
  
+***********************
+Código: 2
+Nombre: documento2modificado
+Fecha de creación: Thu Apr 05 14:30:09 CEST 2018
+Público: true
+Fecha última modificación: null
+Estado: APROBADO
+***********************
+ 
+***********************
+Código: 4
+Nombre: documeno3modificado
+Fecha de creación: Thu Apr 05 14:30:09 CEST 2018
+Público: false
+Fecha última modificación: null
+Estado: ELIMINADO
+***********************
+ 
+***********************
+Código: 2
+Nombre: documento2modificado
+Fecha de creación: Thu Apr 05 14:36:28 CEST 2018
+Público: true
+Fecha última modificación: null
+Estado: APROBADO
+***********************
+ 
+***********************
+Código: 4
+Nombre: documeno3modificado
+Fecha de creación: Thu Apr 05 14:36:28 CEST 2018
+Público: false
+Fecha última modificación: null
+Estado: ELIMINADO
+***********************
+ 
+***********************
+Código: 2
+Nombre: documento2modificado
+Fecha de creación: Thu Apr 05 14:36:43 CEST 2018
+Público: true
+Fecha última modificación: null
+Estado: APROBADO
+***********************
+ 
+***********************
+Código: 4
+Nombre: documeno3modificado
+Fecha de creación: Thu Apr 05 14:36:43 CEST 2018
+Público: false
+Fecha última modificación: null
+Estado: ELIMINADO
+***********************
+ 
+***********************
+Código: 2
+Nombre: documento2modificado
+Fecha de creación: Thu Apr 05 14:38:05 CEST 2018
+Público: true
+Fecha última modificación: null
+Estado: APROBADO
+***********************
+ 
+***********************
+Código: 4
+Nombre: documeno3modificado
+Fecha de creación: Thu Apr 05 14:38:05 CEST 2018
+Público: false
+Fecha última modificación: null
+Estado: ELIMINADO
+***********************
+ 

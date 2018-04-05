@@ -65,17 +65,17 @@ public class CargarDatosIniciales implements ApplicationRunner {
 		
 		repositorioDocumento.cargarDocumentoEnArchivo();
 
-		repositorioDocumento.eliminarDocumento(documento1.getCodigo());
 		repositorioDocumento.listarEliminados(documento1.getCodigo());
-		/*
-		repositorioDocumento.eliminarDocumento(documento3.getCodigo());
-		repositorioDocumento.listarEliminados(documento3.getCodigo());
+		repositorioDocumento.eliminarDocumento(documento1.getCodigo());		
 		
-		repositorioDocumento.eliminarDocumento(documento5.getCodigo());
+		repositorioDocumento.listarEliminados(documento3.getCodigo());
+		repositorioDocumento.eliminarDocumento(documento3.getCodigo());
+		
 		repositorioDocumento.listarEliminados(documento5.getCodigo());
+		repositorioDocumento.eliminarDocumento(documento5.getCodigo());
 		
 		repositorioDocumento.cargarDocumentoEnArchivo();
-		*/
+		
 	}
 	
 	

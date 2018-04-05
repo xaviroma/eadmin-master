@@ -1,0 +1,27 @@
+***********************
+Código: 1
+Nombre: documento1
+Fecha de creación: Thu Apr 05 14:38:05 CEST 2018
+Público: true
+Fecha última modificación: null
+Estado: ACTIVO
+***********************
+ 
+***********************
+Código: 3
+Nombre: documeno3
+Fecha de creación: Thu Apr 05 14:38:05 CEST 2018
+Público: true
+Fecha última modificación: null
+Estado: ACTIVO
+***********************
+ 
+***********************
+Código: 5
+Nombre: documeno5
+Fecha de creación: Thu Apr 05 14:38:05 CEST 2018
+Público: true
+Fecha última modificación: null
+Estado: APROBADO
+***********************
+ 
