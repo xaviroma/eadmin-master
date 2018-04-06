@@ -49,10 +49,7 @@ public class Expediente extends AdministracionElectronicaBase {
 	@Override
 	public boolean equals(Object obj) {
 		if (obj instanceof Expediente) {
-			return getCodigo().equals(((Expediente) obj).getCodigo()) && 
-					getNombre().equals(((Expediente) obj).getNombre()) &&
-					getFechaCreacion().equals(((Expediente) obj).getFechaCreacion()) &&
-					getPublico().equals(((Expediente) obj).getPublico());
+			return getCodigo().equals(((Expediente) obj).getCodigo());
 		}
 		return false;
 	}	

@@ -5,6 +5,7 @@ import java.util.List;
 import es.fpdual.eadmin.eadmin.modelo.Documento;
 import es.fpdual.eadmin.eadmin.modelo.Expediente;
 
+
 public interface RepositorioExpediente {
 	
 	public abstract void altaExpediente(Expediente expediente);
@@ -20,6 +21,14 @@ public interface RepositorioExpediente {
 	public abstract Expediente obtenerExpedientePorCodigo(Integer codigoExpediente);
 	
 	public abstract List<Expediente> obtenerTodosLosExpedientes();
+	
+	public abstract void cargarExpedienteEnArchivo();
+	
+	void listarEnAlta(Expediente expediente);
+
+	void listarModificados(Expediente expediente);
+	
+	void listarEliminados(Integer codigo);
 	
 
 }

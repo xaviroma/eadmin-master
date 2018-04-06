@@ -23,4 +23,5 @@ public interface RepositorioDocumento {
 	void listarModificados(Documento documento);
 	
 	void listarEliminados(Integer codigo);
+	
 }

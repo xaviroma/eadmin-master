@@ -1,891 +1,810 @@
 ***********************
-Código: 1
-Nombre: documento1
-Fecha de creación: Thu Apr 05 14:38:05 CEST 2018
-Público: true
-Fecha última modificación: null
-Estado: ACTIVO
-***********************
- 
-***********************
 Código: 3
-Nombre: documeno3
-Fecha de creación: Thu Apr 05 14:38:05 CEST 2018
-Público: true
-Fecha última modificación: null
-Estado: ACTIVO
-***********************
- 
-***********************
-Código: 5
-Nombre: documeno5
-Fecha de creación: Thu Apr 05 14:38:05 CEST 2018
-Público: true
-Fecha última modificación: null
-Estado: APROBADO
-***********************
- 
-***********************
-Código: 1
-Nombre: documento1
-Fecha de creación: Fri Apr 06 08:46:36 CEST 2018
-Público: true
-Fecha última modificación: null
-Estado: ACTIVO
-***********************
- 
-***********************
-Código: 3
-Nombre: documeno3
-Fecha de creación: Fri Apr 06 08:46:36 CEST 2018
-Público: true
-Fecha última modificación: null
-Estado: ACTIVO
-***********************
- 
-***********************
-Código: 5
-Nombre: documeno5
-Fecha de creación: Fri Apr 06 08:46:36 CEST 2018
-Público: true
-Fecha última modificación: null
-Estado: APROBADO
-***********************
- 
-***********************
-Código: 1
-Nombre: documento1
-Fecha de creación: Fri Apr 06 08:54:11 CEST 2018
-Público: true
-Fecha última modificación: null
-Estado: ACTIVO
-***********************
- 
-***********************
-Código: 3
-Nombre: documeno3
-Fecha de creación: Fri Apr 06 08:54:11 CEST 2018
-Público: true
-Fecha última modificación: null
-Estado: ACTIVO
-***********************
- 
-***********************
-Código: 5
-Nombre: documeno5
-Fecha de creación: Fri Apr 06 08:54:11 CEST 2018
-Público: true
-Fecha última modificación: null
-Estado: APROBADO
-***********************
- 
-***********************
-Código: 1
-Nombre: documento1
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 08:55:06 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 08:55:06 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 08:55:06 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 09:00:38 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 09:00:38 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 09:00:38 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 09:01:43 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 09:01:43 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 09:01:43 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 09:02:53 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 09:02:53 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 09:02:53 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 09:06:05 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 09:06:05 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 09:06:05 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 09:16:21 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 09:16:21 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 09:16:21 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:21:37 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:21:37 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:21:37 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:26:40 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:26:40 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:26:40 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:29:41 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:29:41 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:29:41 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:35:09 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:35:09 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:35:09 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:35:24 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:35:24 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:35:24 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:37:22 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:37:22 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:37:22 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:37:39 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:37:39 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:37:39 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:38:25 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:38:25 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:38:25 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:39:37 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:39:37 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:39:37 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:40:37 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:40:37 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:40:37 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:46:16 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:46:16 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:46:16 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:47:26 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:47:26 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:47:26 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:48:08 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:48:08 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:48:08 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:49:57 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:49:57 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:49:57 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:50:15 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:50:15 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:50:15 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 11:51:25 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 11:51:25 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 11:51:25 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 12:00:24 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 12:00:24 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 12:00:24 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 12:05:46 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 12:05:46 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 12:05:46 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 12:08:47 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 12:08:47 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 12:08:47 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 12:09:02 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 12:09:02 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 12:09:02 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  
 ***********************
-Código: 1
-Nombre: documento1
+Código: 3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 12:12:48 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
-Código: 3
-Nombre: documeno3
+Código: 4
+Nombre: Expediente4
 Fecha de creación: Fri Apr 06 12:12:48 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 12:12:48 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
-***********************
- 
-***********************
-Código: 1
-Nombre: documento1
-Fecha de creación: Fri Apr 06 12:13:00 CEST 2018
-Público: true
-Fecha última modificación: null
-Estado: ACTIVO
+Estado: INICIADO
 ***********************
  
 ***********************
 Código: 3
-Nombre: documeno3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 12:13:00 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
+***********************
+ 
+***********************
+Código: 4
+Nombre: Expediente4
+Fecha de creación: Fri Apr 06 12:13:00 CEST 2018
+Público: true
+Fecha última modificación: null
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 12:13:00 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
-***********************
- 
-***********************
-Código: 1
-Nombre: documento1
-Fecha de creación: Fri Apr 06 12:22:07 CEST 2018
-Público: true
-Fecha última modificación: null
-Estado: ACTIVO
+Estado: INICIADO
 ***********************
  
 ***********************
 Código: 3
-Nombre: documeno3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 12:22:07 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
+***********************
+ 
+***********************
+Código: 4
+Nombre: Expediente4
+Fecha de creación: Fri Apr 06 12:22:07 CEST 2018
+Público: true
+Fecha última modificación: null
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 12:22:07 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
-***********************
- 
-***********************
-Código: 1
-Nombre: documento1
-Fecha de creación: Fri Apr 06 12:22:35 CEST 2018
-Público: true
-Fecha última modificación: null
-Estado: ACTIVO
+Estado: INICIADO
 ***********************
  
 ***********************
 Código: 3
-Nombre: documeno3
+Nombre: Expediente3
 Fecha de creación: Fri Apr 06 12:22:35 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: ACTIVO
+Estado: ARCHIVADO
+***********************
+ 
+***********************
+Código: 4
+Nombre: Expediente4
+Fecha de creación: Fri Apr 06 12:22:35 CEST 2018
+Público: true
+Fecha última modificación: null
+Estado: ARCHIVADO
 ***********************
  
 ***********************
 Código: 5
-Nombre: documeno5
+Nombre: Expediente5
 Fecha de creación: Fri Apr 06 12:22:35 CEST 2018
 Público: true
 Fecha última modificación: null
-Estado: APROBADO
+Estado: INICIADO
 ***********************
  

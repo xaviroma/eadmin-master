@@ -19,11 +19,16 @@ public class Documento extends AdministracionElectronicaBase {
 	}
 
 
+	public Enum devolverEstado() {
+		return getEstado();
+	}
+	
 	@Override
 	public String toString() {
 		return "[Codigo=" + getCodigo() + "]";
 	}
 
+	
 
 	
 	
