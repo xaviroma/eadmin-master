@@ -18,4 +18,4 @@
 		<appender-ref ref="uneFicherosInfo" />
 	</root>
 
-</log4j:configuration>
+</log4j:configuration>>

@@ -4612,3 +4612,287 @@ Caused by: java.net.BindException: Address already in use: bind
 2018-04-06 13:47:44.221  INFO 11152 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
 2018-04-06 13:47:44.228  INFO 11152 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
 2018-04-06 13:47:44.228  INFO 11152 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 13:49:33.342  INFO 6036 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 13:49:33.359  INFO 6036 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 13:49:33.359  INFO 6036 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 13:49:33.500  INFO 6036 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 13:49:34.437  INFO 6036 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 13:49:34.442  INFO 6036 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 13:49:34.442  INFO 6036 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 13:50:56.109  INFO 8776 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 13:50:56.111  INFO 8776 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 13:50:56.123  INFO 8776 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 13:50:56.255  INFO 8776 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 13:50:57.496  INFO 8776 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 13:50:57.497  INFO 8776 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 13:50:57.497  INFO 8776 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 13:53:45.988  INFO 10972 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 13:53:45.988  INFO 10972 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 13:53:46.000  INFO 10972 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 13:53:46.117  INFO 10972 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 13:53:46.881  INFO 10972 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 13:53:46.882  INFO 10972 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 13:53:46.882  INFO 10972 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 13:54:27.599  INFO 3200 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 13:54:27.600  INFO 3200 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 13:54:27.610  INFO 3200 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 13:54:27.728  INFO 3200 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 13:54:28.559  INFO 3200 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 13:54:28.559  INFO 3200 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 13:54:28.559  INFO 3200 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 13:55:19.046  INFO 1844 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 13:55:19.051  INFO 1844 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 13:55:19.052  INFO 1844 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 13:55:19.334  INFO 1844 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 13:55:20.037  INFO 1844 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 13:55:20.037  INFO 1844 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 13:55:20.037  INFO 1844 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 13:59:09.941  INFO 10168 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 13:59:09.953  INFO 10168 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 13:59:09.954  INFO 10168 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 13:59:10.080  INFO 10168 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 13:59:10.986  INFO 10168 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 13:59:10.987  INFO 10168 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 13:59:10.987  INFO 10168 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 14:02:59.206  INFO 8624 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 14:02:59.206  INFO 8624 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 14:02:59.222  INFO 8624 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 14:02:59.550  INFO 8624 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 14:03:00.519  INFO 8624 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 14:03:00.525  INFO 8624 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 14:03:00.525  INFO 8624 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 14:34:18.984  INFO 10364 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 14:34:18.986  INFO 10364 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 14:34:18.996  INFO 10364 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 14:34:19.157  INFO 10364 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 14:34:19.955  INFO 10364 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 14:34:19.955  INFO 10364 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 14:34:19.955  INFO 10364 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 14:36:01.311  INFO 196 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 14:36:01.312  INFO 196 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 14:36:01.324  INFO 196 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 14:36:01.633  INFO 196 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 14:36:02.516  INFO 196 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 14:36:02.517  INFO 196 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 14:36:02.517  INFO 196 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 14:37:06.274  INFO 6768 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 14:37:06.276  INFO 6768 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 14:37:06.286  INFO 6768 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 14:37:06.423  INFO 6768 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 14:37:07.225  INFO 6768 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 14:37:07.225  INFO 6768 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 14:37:07.225  INFO 6768 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 14:37:18.718  INFO 2104 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 14:37:18.720  INFO 2104 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 14:37:18.731  INFO 2104 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 14:37:18.856  INFO 2104 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 14:37:19.669  INFO 2104 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 14:37:19.670  INFO 2104 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 14:37:19.670  INFO 2104 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 14:38:58.058  INFO 7736 --- [main] e.f.eadmin.eadmin.EadminApplication      : Starting EadminApplication on mvformacion with PID 7736 (C:\Users\formacion\Desktop\eadmin\eadmin-master\target\classes started by formacion in C:\Users\formacion\Desktop\eadmin\eadmin-master)
+2018-04-06 14:38:58.060  INFO 7736 --- [main] e.f.eadmin.eadmin.EadminApplication      : No active profile set, falling back to default profiles: default
+2018-04-06 14:38:58.151  INFO 7736 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6ee12bac: startup date [Fri Apr 06 14:38:58 CEST 2018]; root of context hierarchy
+2018-04-06 14:38:59.468  INFO 7736 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2018-04-06 14:38:59.511  INFO 7736 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 14:38:59.512  INFO 7736 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 14:38:59.524  INFO 7736 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 14:38:59.681  INFO 7736 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 14:38:59.682  INFO 7736 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1531 ms
+2018-04-06 14:38:59.807  INFO 7736 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2018-04-06 14:38:59.813  INFO 7736 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-04-06 14:38:59.813  INFO 7736 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-04-06 14:38:59.814  INFO 7736 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-04-06 14:38:59.816  INFO 7736 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-04-06 14:39:00.174  INFO 7736 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6ee12bac: startup date [Fri Apr 06 14:38:58 CEST 2018]; root of context hierarchy
+2018-04-06 14:39:00.265  INFO 7736 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/eadmin/documentos/eliminar/{codigo}],methods=[GET]}" onto public org.springframework.http.ResponseEntity<?> es.fpdual.eadmin.eadmin.controlador.ControladorEadmin.eliminarDocumento(java.lang.Integer)
+2018-04-06 14:39:00.265  INFO 7736 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/eadmin/documentos],methods=[GET]}" onto public org.springframework.http.ResponseEntity<java.util.List<es.fpdual.eadmin.eadmin.modelo.Documento>> es.fpdual.eadmin.eadmin.controlador.ControladorEadmin.getTodosDocumentos()
+2018-04-06 14:39:00.265  INFO 7736 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/eadmin/documentos/{codigo}],methods=[GET]}" onto public org.springframework.http.ResponseEntity<es.fpdual.eadmin.eadmin.modelo.Documento> es.fpdual.eadmin.eadmin.controlador.ControladorEadmin.getDocumento(java.lang.Integer)
+2018-04-06 14:39:00.265  INFO 7736 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-04-06 14:39:00.265  INFO 7736 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-04-06 14:39:00.316  INFO 7736 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-04-06 14:39:00.316  INFO 7736 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-04-06 14:39:00.362  INFO 7736 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-04-06 14:39:00.625  INFO 7736 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-04-06 14:39:00.684  INFO 7736 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2018-04-06 14:39:00.688  INFO 7736 --- [main] e.f.eadmin.eadmin.EadminApplication      : Started EadminApplication in 2.983 seconds (JVM running for 3.597)
+2018-04-06 14:39:00.690  INFO 7736 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 14:39:00.691  INFO 7736 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 14:39:00.691  INFO 7736 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 14:39:00.693  INFO 7736 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2018-04-06 14:39:00.703 ERROR 7736 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.IllegalStateException: Failed to execute ApplicationRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:784) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:771) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1234) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at es.fpdual.eadmin.eadmin.EadminApplication.main(EadminApplication.java:33) [classes/:na]
+Caused by: java.lang.NullPointerException: null
+	at es.fpdual.eadmin.eadmin.repositorio.impl.RepositorioDocumentoImpl.exportarDocumento(RepositorioDocumentoImpl.java:292) ~[classes/:na]
+	at es.fpdual.eadmin.eadmin.repositorio.impl.RepositorioDocumentoImpl.altaDocumento(RepositorioDocumentoImpl.java:58) ~[classes/:na]
+	at es.fpdual.eadmin.eadmin.CargarDatosIniciales.run(CargarDatosIniciales.java:37) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:781) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	... 5 common frames omitted
+
+2018-04-06 14:39:00.704  INFO 7736 --- [main] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6ee12bac: startup date [Fri Apr 06 14:38:58 CEST 2018]; root of context hierarchy
+2018-04-06 14:39:00.706  INFO 7736 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-04-06 14:39:13.393  INFO 8840 --- [main] e.f.eadmin.eadmin.EadminApplication      : Starting EadminApplication on mvformacion with PID 8840 (C:\Users\formacion\Desktop\eadmin\eadmin-master\target\classes started by formacion in C:\Users\formacion\Desktop\eadmin\eadmin-master)
+2018-04-06 14:39:13.395  INFO 8840 --- [main] e.f.eadmin.eadmin.EadminApplication      : No active profile set, falling back to default profiles: default
+2018-04-06 14:39:13.460  INFO 8840 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@12d3a4e9: startup date [Fri Apr 06 14:39:13 CEST 2018]; root of context hierarchy
+2018-04-06 14:39:15.209  INFO 8840 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2018-04-06 14:39:15.306  INFO 8840 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 14:39:15.307  INFO 8840 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 14:39:15.319  INFO 8840 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 14:39:15.569  INFO 8840 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 14:39:15.569  INFO 8840 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2109 ms
+2018-04-06 14:39:15.745  INFO 8840 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2018-04-06 14:39:15.750  INFO 8840 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-04-06 14:39:15.750  INFO 8840 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-04-06 14:39:15.751  INFO 8840 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-04-06 14:39:15.751  INFO 8840 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-04-06 14:39:16.090  INFO 8840 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@12d3a4e9: startup date [Fri Apr 06 14:39:13 CEST 2018]; root of context hierarchy
+2018-04-06 14:39:16.166  INFO 8840 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/eadmin/documentos/{codigo}],methods=[GET]}" onto public org.springframework.http.ResponseEntity<es.fpdual.eadmin.eadmin.modelo.Documento> es.fpdual.eadmin.eadmin.controlador.ControladorEadmin.getDocumento(java.lang.Integer)
+2018-04-06 14:39:16.168  INFO 8840 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/eadmin/documentos/eliminar/{codigo}],methods=[GET]}" onto public org.springframework.http.ResponseEntity<?> es.fpdual.eadmin.eadmin.controlador.ControladorEadmin.eliminarDocumento(java.lang.Integer)
+2018-04-06 14:39:16.168  INFO 8840 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/eadmin/documentos],methods=[GET]}" onto public org.springframework.http.ResponseEntity<java.util.List<es.fpdual.eadmin.eadmin.modelo.Documento>> es.fpdual.eadmin.eadmin.controlador.ControladorEadmin.getTodosDocumentos()
+2018-04-06 14:39:16.172  INFO 8840 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-04-06 14:39:16.173  INFO 8840 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-04-06 14:39:16.221  INFO 8840 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-04-06 14:39:16.229  INFO 8840 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-04-06 14:39:16.274  INFO 8840 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-04-06 14:39:16.404  INFO 8840 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-04-06 14:39:16.443  INFO 8840 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2018-04-06 14:39:16.446  INFO 8840 --- [main] e.f.eadmin.eadmin.EadminApplication      : Started EadminApplication in 3.471 seconds (JVM running for 4.0)
+2018-04-06 14:39:16.448  INFO 8840 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 14:39:16.450  INFO 8840 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 14:39:16.450  INFO 8840 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 14:39:16.452  INFO 8840 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2018-04-06 14:39:16.456 ERROR 8840 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.IllegalStateException: Failed to execute ApplicationRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:784) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:771) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1234) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at es.fpdual.eadmin.eadmin.EadminApplication.main(EadminApplication.java:33) [classes/:na]
+Caused by: java.lang.NullPointerException: null
+	at es.fpdual.eadmin.eadmin.repositorio.impl.RepositorioDocumentoImpl.exportarDocumento(RepositorioDocumentoImpl.java:292) ~[classes/:na]
+	at es.fpdual.eadmin.eadmin.repositorio.impl.RepositorioDocumentoImpl.altaDocumento(RepositorioDocumentoImpl.java:58) ~[classes/:na]
+	at es.fpdual.eadmin.eadmin.CargarDatosIniciales.run(CargarDatosIniciales.java:37) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:781) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	... 5 common frames omitted
+
+2018-04-06 14:39:16.459  INFO 8840 --- [main] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@12d3a4e9: startup date [Fri Apr 06 14:39:13 CEST 2018]; root of context hierarchy
+2018-04-06 14:39:16.462  INFO 8840 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-04-06 14:40:48.306  INFO 1316 --- [main] e.f.eadmin.eadmin.EadminApplication      : Starting EadminApplication on mvformacion with PID 1316 (C:\Users\formacion\Desktop\eadmin\eadmin-master\target\classes started by formacion in C:\Users\formacion\Desktop\eadmin\eadmin-master)
+2018-04-06 14:40:48.308  INFO 1316 --- [main] e.f.eadmin.eadmin.EadminApplication      : No active profile set, falling back to default profiles: default
+2018-04-06 14:40:48.402  INFO 1316 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@77e9807f: startup date [Fri Apr 06 14:40:48 CEST 2018]; root of context hierarchy
+2018-04-06 14:40:49.744  INFO 1316 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2018-04-06 14:40:49.776  INFO 1316 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 14:40:49.778  INFO 1316 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 14:40:49.790  INFO 1316 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 14:40:49.926  INFO 1316 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 14:40:49.927  INFO 1316 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1525 ms
+2018-04-06 14:40:50.055  INFO 1316 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2018-04-06 14:40:50.058  INFO 1316 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-04-06 14:40:50.060  INFO 1316 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-04-06 14:40:50.060  INFO 1316 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-04-06 14:40:50.060  INFO 1316 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-04-06 14:40:50.363  INFO 1316 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@77e9807f: startup date [Fri Apr 06 14:40:48 CEST 2018]; root of context hierarchy
+2018-04-06 14:40:50.447  INFO 1316 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/eadmin/documentos/eliminar/{codigo}],methods=[GET]}" onto public org.springframework.http.ResponseEntity<?> es.fpdual.eadmin.eadmin.controlador.ControladorEadmin.eliminarDocumento(java.lang.Integer)
+2018-04-06 14:40:50.449  INFO 1316 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/eadmin/documentos],methods=[GET]}" onto public org.springframework.http.ResponseEntity<java.util.List<es.fpdual.eadmin.eadmin.modelo.Documento>> es.fpdual.eadmin.eadmin.controlador.ControladorEadmin.getTodosDocumentos()
+2018-04-06 14:40:50.450  INFO 1316 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/eadmin/documentos/{codigo}],methods=[GET]}" onto public org.springframework.http.ResponseEntity<es.fpdual.eadmin.eadmin.modelo.Documento> es.fpdual.eadmin.eadmin.controlador.ControladorEadmin.getDocumento(java.lang.Integer)
+2018-04-06 14:40:50.454  INFO 1316 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-04-06 14:40:50.455  INFO 1316 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-04-06 14:40:50.496  INFO 1316 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-04-06 14:40:50.496  INFO 1316 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-04-06 14:40:50.531  INFO 1316 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-04-06 14:40:50.666  INFO 1316 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-04-06 14:40:50.708  INFO 1316 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2018-04-06 14:40:50.713  INFO 1316 --- [main] e.f.eadmin.eadmin.EadminApplication      : Started EadminApplication in 2.82 seconds (JVM running for 3.246)
+2018-04-06 14:40:50.716  INFO 1316 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 14:40:50.716  INFO 1316 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 14:40:50.716  INFO 1316 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 14:40:50.719  INFO 1316 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2018-04-06 14:40:50.725 ERROR 1316 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.IllegalStateException: Failed to execute ApplicationRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:784) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:771) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1234) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at es.fpdual.eadmin.eadmin.EadminApplication.main(EadminApplication.java:33) [classes/:na]
+Caused by: java.lang.NullPointerException: null
+	at es.fpdual.eadmin.eadmin.repositorio.impl.RepositorioDocumentoImpl.exportarDocumento(RepositorioDocumentoImpl.java:292) ~[classes/:na]
+	at es.fpdual.eadmin.eadmin.repositorio.impl.RepositorioDocumentoImpl.altaDocumento(RepositorioDocumentoImpl.java:58) ~[classes/:na]
+	at es.fpdual.eadmin.eadmin.CargarDatosIniciales.run(CargarDatosIniciales.java:37) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:781) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	... 5 common frames omitted
+
+2018-04-06 14:40:50.727  INFO 1316 --- [main] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@77e9807f: startup date [Fri Apr 06 14:40:48 CEST 2018]; root of context hierarchy
+2018-04-06 14:40:50.729  INFO 1316 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-04-06 14:42:12.049  INFO 676 --- [main] e.f.eadmin.eadmin.EadminApplication      : Starting EadminApplication on mvformacion with PID 676 (C:\Users\formacion\Desktop\eadmin\eadmin-master\target\classes started by formacion in C:\Users\formacion\Desktop\eadmin\eadmin-master)
+2018-04-06 14:42:12.050  INFO 676 --- [main] e.f.eadmin.eadmin.EadminApplication      : No active profile set, falling back to default profiles: default
+2018-04-06 14:42:12.114  INFO 676 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@5d47c63f: startup date [Fri Apr 06 14:42:12 CEST 2018]; root of context hierarchy
+2018-04-06 14:42:13.410  INFO 676 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2018-04-06 14:42:13.439  INFO 676 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 14:42:13.440  INFO 676 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 14:42:13.449  INFO 676 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 14:42:13.571  INFO 676 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 14:42:13.572  INFO 676 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1458 ms
+2018-04-06 14:42:13.803  INFO 676 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2018-04-06 14:42:13.808  INFO 676 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-04-06 14:42:13.810  INFO 676 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-04-06 14:42:13.810  INFO 676 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-04-06 14:42:13.811  INFO 676 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-04-06 14:42:14.213  INFO 676 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@5d47c63f: startup date [Fri Apr 06 14:42:12 CEST 2018]; root of context hierarchy
+2018-04-06 14:42:14.301  INFO 676 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/eadmin/documentos/eliminar/{codigo}],methods=[GET]}" onto public org.springframework.http.ResponseEntity<?> es.fpdual.eadmin.eadmin.controlador.ControladorEadmin.eliminarDocumento(java.lang.Integer)
+2018-04-06 14:42:14.303  INFO 676 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/eadmin/documentos],methods=[GET]}" onto public org.springframework.http.ResponseEntity<java.util.List<es.fpdual.eadmin.eadmin.modelo.Documento>> es.fpdual.eadmin.eadmin.controlador.ControladorEadmin.getTodosDocumentos()
+2018-04-06 14:42:14.304  INFO 676 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/eadmin/documentos/{codigo}],methods=[GET]}" onto public org.springframework.http.ResponseEntity<es.fpdual.eadmin.eadmin.modelo.Documento> es.fpdual.eadmin.eadmin.controlador.ControladorEadmin.getDocumento(java.lang.Integer)
+2018-04-06 14:42:14.312  INFO 676 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-04-06 14:42:14.312  INFO 676 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-04-06 14:42:14.365  INFO 676 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-04-06 14:42:14.365  INFO 676 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-04-06 14:42:14.427  INFO 676 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-04-06 14:42:14.625  INFO 676 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-04-06 14:42:14.659  INFO 676 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2018-04-06 14:42:14.662  INFO 676 --- [main] e.f.eadmin.eadmin.EadminApplication      : Started EadminApplication in 2.949 seconds (JVM running for 3.366)
+2018-04-06 14:42:14.664  INFO 676 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 14:42:14.665  INFO 676 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 14:42:14.665  INFO 676 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
+2018-04-06 14:42:14.667  INFO 676 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2018-04-06 14:42:14.672 ERROR 676 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.IllegalStateException: Failed to execute ApplicationRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:784) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:771) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1246) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1234) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	at es.fpdual.eadmin.eadmin.EadminApplication.main(EadminApplication.java:33) [classes/:na]
+Caused by: java.lang.NullPointerException: null
+	at es.fpdual.eadmin.eadmin.repositorio.impl.RepositorioDocumentoImpl.exportarDocumento(RepositorioDocumentoImpl.java:292) ~[classes/:na]
+	at es.fpdual.eadmin.eadmin.repositorio.impl.RepositorioDocumentoImpl.altaDocumento(RepositorioDocumentoImpl.java:58) ~[classes/:na]
+	at es.fpdual.eadmin.eadmin.CargarDatosIniciales.run(CargarDatosIniciales.java:37) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:781) [spring-boot-2.0.0.RELEASE.jar:2.0.0.RELEASE]
+	... 5 common frames omitted
+
+2018-04-06 14:42:14.673  INFO 676 --- [main] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@5d47c63f: startup date [Fri Apr 06 14:42:12 CEST 2018]; root of context hierarchy
+2018-04-06 14:42:14.675  INFO 676 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-04-06 14:42:23.915  INFO 5224 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-04-06 14:42:23.917  INFO 5224 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.28
+2018-04-06 14:42:23.928  INFO 5224 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_152\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Oracle\product\11.2.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\formacion\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\eclipse\jee-oxygen\eclipse;;.]
+2018-04-06 14:42:24.046  INFO 5224 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-04-06 14:42:24.817  INFO 5224 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Entrando en altaDocumento
+2018-04-06 14:42:24.818  INFO 5224 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Exportando...
+2018-04-06 14:42:24.819  INFO 5224 --- [main] e.f.e.e.r.impl.RepositorioDocumentoImpl  : Iniciando bucle.
